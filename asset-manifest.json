@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid19uganda/static/css/main.f693c9f5.chunk.css",
+    "main.js": "/covid19uganda/static/js/main.a8b3654a.chunk.js",
+    "main.js.map": "/covid19uganda/static/js/main.a8b3654a.chunk.js.map",
+    "runtime-main.js": "/covid19uganda/static/js/runtime-main.0ad2e172.js",
+    "runtime-main.js.map": "/covid19uganda/static/js/runtime-main.0ad2e172.js.map",
+    "static/js/2.00dcaafc.chunk.js": "/covid19uganda/static/js/2.00dcaafc.chunk.js",
+    "static/js/2.00dcaafc.chunk.js.map": "/covid19uganda/static/js/2.00dcaafc.chunk.js.map",
+    "index.html": "/covid19uganda/index.html",
+    "precache-manifest.a2b3c21e36eea622d798226bfac7366f.js": "/covid19uganda/precache-manifest.a2b3c21e36eea622d798226bfac7366f.js",
+    "service-worker.js": "/covid19uganda/service-worker.js",
+    "static/css/main.f693c9f5.chunk.css.map": "/covid19uganda/static/css/main.f693c9f5.chunk.css.map",
+    "static/js/2.00dcaafc.chunk.js.LICENSE.txt": "/covid19uganda/static/js/2.00dcaafc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ad2e172.js",
+    "static/js/2.00dcaafc.chunk.js",
+    "static/css/main.f693c9f5.chunk.css",
+    "static/js/main.a8b3654a.chunk.js"
+  ]
+}
